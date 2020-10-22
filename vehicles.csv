@@ -1,0 +1,101 @@
+﻿num,year,manufacturer,model,cylinders,fuel,title_status,transmission,drive,size,type,fuel_h,fuel_c,engine
+1,2000,gmc,new sierra 1500,8,gas,clean,automatic,4wd,mid-size,sedan,29,23,1.8
+2,2013,hyundai,sonata,4,gas,clean,automatic,fwd,mid-size,sedan,29,19,1.8
+3,2013,toyota,prius,4,hybrid,clean,automatic,fwd,mid-size,sedan,31,18,2
+4,2003,mitsubishi,lancer,4,gas,clean,manual,4wd,mid-size,sedan,30,17,2
+5,2007,gmc,sierra classic 2500hd,8,diesel,clean,automatic,4wd,full-size,truck,26,17,2.8
+6,2012,ford,f-150,6,gas,clean,automatic,4wd,full-size,truck,26,19,2.8
+7,2010,chevrolet,equinox,4,gas,clean,automatic,4wd,full-size,SUV,27,19,3.1
+8,2011,chevrolet,traverse,6,gas,clean,automatic,4wd,full-size,SUV,26,12,1.8
+9,2014,ford,explorer,6,gas,clean,automatic,4wd,full-size,SUV,25,17,1.8
+10,2004,ram,2500,6,diesel,clean,automatic,4wd,full-size,truck,28,15,2
+11,2011,chevrolet,silverado 1500,8,gas,clean,automatic,4wd,full-size,truck,27,17,2
+12,2011,chevrolet,silverado 1500,8,gas,clean,automatic,4wd,full-size,truck,25,17,2.8
+13,2011,chevrolet,silverado 2500hd,8,gas,clean,automatic,4wd,full-size,truck,25,12,2.8
+14,2009,chevrolet,silverado 1500,8,gas,clean,automatic,4wd,full-size,truck,25,17,3.1
+15,2008,chevrolet,tahoe,6,gas,clean,automatic,4wd,full-size,SUV,25,16,3.1
+16,2011,chevrolet,silverado 1500,8,gas,clean,automatic,4wd,full-size,truck,24,18,2.8
+17,2008,chevrolet,silverado 1500,8,gas,clean,automatic,4wd,full-size,truck,25,15,3.1
+18,2011,chevrolet,silverado 1500,8,gas,clean,automatic,4wd,full-size,truck,23,16,4.2
+19,2009,,international 8600,6,diesel,clean,manual,fwd,full-size,truck,20,12,5.3
+20,1994,buick,century,4,gas,clean,automatic,fwd,mid-size,sedan,15,17,5.3
+21,1997,ford,f-800,6,gas,clean,automatic,rwd,full-size,sedan,20,17,5.3
+22,2007,toyota,corolla le,4,gas,clean,manual,fwd,full-size,sedan,17,16,5.7
+23,2009,ford,f-150,8,gas,clean,automatic,4wd,full-size,sedan,17,12,6
+24,2019,jeep,cherokee,8,gas,clean,automatic,4wd,full-size,sedan,26,15,5.7
+25,2011,jeep,grand cherokee,8,other,clean,automatic,4wd,full-size,sedan,23,16,5.7
+26,2012,ford,fusion se,8,gas,clean,automatic,4wd,full-size,sedan,26,17,6.2
+27,1980,chevrolet,camaro,8,gas,clean,automatic,4wd,full-size,sedan,25,15,6.2
+28,2015,dodge,i,8,diesel,clean,other,4wd,full-size,sedan,24,17,7
+29,2003,chevrolet,silverado,8,diesel,clean,automatic,4wd,full-size,truck,19,17,5.3
+30,2014,subaru,impreza wagon wrx,4,gas,clean,manual,4wd,compact,sedan,14,18,5.3
+31,2015,nissan,rogue select,4,gas,clean,automatic,4wd,compact,SUV,15,17,5.7
+32,2011,hyundai,elantra limited,4,gas,lien,automatic,fwd,compact,sedan,17,19,6.5
+33,2018,subaru,subaru,6,gas,clean,automatic,fwd,compact,SUV,27,17,2.4
+34,2016,nissan,rogue,4,gas,clean,automatic,fwd,compact,SUV,30,19,2.4
+35,2006,dodge,grand caravan,6,gas,clean,automatic,fwd,mid-size,mini-van,26,19,3.1
+36,2013,ford,edge,6,gas,clean,automatic,4wd,mid-size,SUV,29,17,3.5
+37,2015,nissan,pathfinder,6,gas,rebuilt,automatic,4wd,mid-size,SUV,26,17,3.6
+38,2017,ford,explorer,6,gas,rebuilt,automatic,4wd,mid-size,SUV,24,17,2.4
+39,2016,subaru,crosstrek,4,gas,rebuilt,automatic,4wd,mid-size,SUV,24,16,3
+40,2008,audi,tt,4,gas,clean,automatic,4wd,mid-size,mini-van,22,16,3.3
+41,2003,ford,f250,6,gas,clean,automatic,4wd,mid-size,mini-van,22,17,3.3
+42,2010,dodge,grand caravan,6,gas,clean,automatic,fwd,mid-size,mini-van,24,15,3.3
+43,2013,chevrolet,cruze lt,4,gas,clean,automatic,fwd,mid-size,sedan,24,17,3.3
+44,2014,subaru,wrx impreza wagon,4,gas,clean,manual,4wd,mid-size,wagon,17,26,3.3
+45,2011,rover,sport,8,gas,clean,automatic,4wd,mid-size,SUV,22,25,3.8
+46,2014,lexus,is 250,6,gas,clean,automatic,4wd,mid-size,sedan,21,26,3.8
+47,2005,ford,super duty f-350 drw,8,diesel,clean,other,4wd,mid-size,truck,23,24,3.8
+48,2012,subaru,forester 2.5x premium awd,4,electric,clean,automatic,4wd,mid-size,hatchback,23,21,4
+49,2008,ford,super duty f-350 srw king,8,diesel,clean,automatic,4wd,mid-size,truck,19,22,3.7
+50,2005,toyota,camry,4,gas,clean,manual,4wd,mid-size,sedan,18,23,3.7
+51,1964,dodge,polara,8,gas,clean,automatic,rwd,mid-size,coupe,17,22,3.9
+52,2016,ford,f450 4x4,6,diesel,clean,other,rwd,compact,other,17,20,3.9
+53,2019,subaru,forester,4,gas,clean,automatic,rwd,compact,SUV,19,33,4.7
+54,1998,honda,civic,4,gas,clean,automatic,rwd,compact,SUV,19,32,4.7
+55,2011,ford,super duty f-250 pickup,8,diesel,clean,automatic,rwd,compact,truck,12,32,4.7
+56,2017,jeep,patriot,4,gas,rebuilt,automatic,rwd,compact,truck,17,29,5.2
+57,2001,ford,f-150 lightning,8,gas,clean,automatic,rwd,compact,truck,15,32,5.2
+58,2006,ford,f150 xl,6,gas,clean,automatic,rwd,full-size,truck,17,34,3.9
+59,2012,toyota,camry le,4,gas,clean,automatic,fwd,mid-size,sedan,17,36,4.7
+60,2004,,F350 XLT Super Duty,6,diesel,clean,automatic,4wd,full-size,pickup,12,36,4.7
+61,2008,ford,f-350 super duty,6,diesel,clean,automatic,4wd,full-size,pickup,17,29,4.7
+62,2002,chevrolet,malibu ls,6,gas,clean,automatic,fwd,mid-size,sedan,16,26,5.2
+63,2019,dodge,charger,8,gas,clean,automatic,rwd,mid-size,sedan,18,27,5.7
+64,2019,jeep,cherokee,8,gas,clean,automatic,4wd,mid-size,sedan,15,30,5.9
+65,2015,chevrolet,silverado 1500,8,other,clean,automatic,rwd,mid-size,pickup,16,31,4.7
+66,2004,ford,f-150,8,gas,clean,automatic,rwd,mid-size,pickup,12,26,4.7
+67,1937,chevrolet,sedan,8,gas,clean,manual,rwd,mid-size,pickup,17,26,4.7
+68,2006,ram,2500 laramie,6,diesel,clean,automatic,rwd,mid-size,truck,17,28,4.7
+69,1996,,1996 Corvette,8,gas,clean,manual,rwd,mid-size,convertible,16,26,4.7
+70,2018,gmc,sierra denali 2500 hd,8,diesel,clean,automatic,rwd,mid-size,truck,12,29,4.7
+71,2007,hyundai,sante fe gls,6,gas,clean,automatic,4wd,mid-size,SUV,15,28,5.2
+72,2011,chevrolet,traverse ltz awd,6,gas,clean,automatic,4wd,full-size,SUV,16,27,5.2
+73,2008,ford,edge limited awd,4,gas,clean,automatic,4wd,compact,SUV,17,24,5.7
+74,2011,nissan,murano sl,6,gas,clean,automatic,4wd,mid-size,SUV,15,24,5.9
+75,1995,chevrolet,silverado 3500,8,diesel,clean,manual,4wd,mid-size,SUV,17,24,4.6
+76,2015,jeep,grand cherokee limited 4x4,4,gas,clean,automatic,4wd,mid-size,SUV,17,22,5.4
+77,2015,subaru,legacy,8,gas,clean,automatic,4wd,mid-size,SUV,18,19,5.4
+78,2010,chevrolet,malibu,6,gas,clean,automatic,4wd,mid-size,SUV,17,20,4
+79,2013,ford,escape,6,gas,clean,automatic,4wd,mid-size,SUV,19,17,4
+80,2015,chrysler,200,6,gas,clean,automatic,4wd,mid-size,SUV,17,12,4
+81,1989,chevrolet,silverado,6,gas,clean,manual,4wd,mid-size,truck,19,19,4
+82,2006,ford,f-150,8,gas,clean,automatic,4wd,mid-size,pickup,19,18,4.6
+83,2016,ford,f-150 king ranch 4x4,6,gas,clean,automatic,fwd,mid-size,pickup,17,14,5
+84,2000,lexus,es300,6,gas,clean,automatic,fwd,mid-size,sedan,17,15,4.2
+85,2005,,poniac grand am,4,gas,clean,automatic,fwd,mid-size,coupe,17,18,4.2
+86,2014,lexus,is250 awd luxury-sport sed,4,gas,clean,automatic,fwd,mid-size,hatchback,16,18,4.6
+87,2012,mini,cooper s w/6-speed manual,4,gas,clean,manual,fwd,mid-size,hatchback,16,15,4.6
+88,2008,pontiac,g6,4,gas,clean,automatic,fwd,mid-size,hatchback,17,17,4.6
+89,2006,,PT cruiser,4,gas,clean,automatic,fwd,mid-size,hatchback,15,16,5.4
+90,2014,subaru,forester 2.5i premium,4,gas,clean,automatic,4wd,mid-size,hatchback,17,18,5.4
+91,2014,chevrolet,suburban,8,gas,clean,automatic,4wd,full-size,SUV,26,17,3.8
+92,2014,subaru,impreza sedan,4,gas,clean,manual,4wd,compact,sedan,25,19,3.8
+93,2014,mercedes-benz,ml350 4matic awd s,6,gas,clean,automatic,fwd,compact,sedan,26,19,4
+94,2014,jeep,grand cherokee limited ecod,6,diesel,clean,automatic,fwd,compact,sedan,24,17,4
+95,2016,chevrolet,cruze lt,4,gas,clean,automatic,fwd,compact,sedan,21,29,4.6
+96,2009,dodge,grand caravan,8,gas,clean,automatic,fwd,compact,sedan,22,27,4.6
+97,2010,chevrolet,impala,6,gas,clean,automatic,fwd,mid-size,sedan,23,31,4.6
+98,2012,cadillac,escalade esv platinum,8,gas,clean,automatic,4wd,mid-size,SUV,22,32,4.6
+99,2010,cadillac,escalade ext premium,8,gas,clean,automatic,4wd,mid-size,wagon,20,27,5.4
+100,2013,bmw,640i gran coupe,6,gas,clean,automatic,4wd,mid-size,sedan,33,26,1.6
