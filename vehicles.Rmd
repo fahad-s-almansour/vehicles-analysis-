@@ -1,0 +1,136 @@
+---
+title: "Vehicles"
+author: "Fahad Almansour"
+date: "10/22/2020"
+output: html_document
+---
+
+`
+```{r, include = FALSE}
+knitr::opts_chunk$set(cache = TRUE, 
+                      message = FALSE,
+                      warning = FALSE,
+                      echo = FALSE,
+                      autodep = TRUE, 
+                      fig.align = "center")
+
+library(tidyverse)
+library(rio)
+library(tinytex)
+library(ggplot2)
+library(data.table)
+library(scales)
+library(car, quietly = TRUE)
+
+
+```
+
+
+
+.
+
+
+
+
+
+```{r}
+
+# read the data 
+vehicles <- read_csv ("vehicles.csv")
+#str(vehicles)
+```
+
+
+
+
+#### Analysis  R project
+
+
+
+```{r}
+
+qplot(manufacturer, data=vehicles, geom="bar", fill=manufacturer)
+
+```
+
+```{r}
+qplot(cylinders, data=vehicles, geom="bar", fill=factor(cylinders))
+
+```
+
+#### Analysis on Fuel in the highways 
+```{r}
+qplot(fuel_h, data=vehicles, geom="histogram", bins=30)
+```
+
+
+
+
+#### Analysis on Fuel in the city
+
+
+```{r}
+qplot(fuel_c, data=vehicles, geom="histogram", bins=30)
+```
+ 
+
+
+```{r}
+ggplot(data = vehicles) + 
+  geom_point(mapping = aes(x =engine , y =fuel_h ), color='red')
+
+ggplot(data = vehicles) + 
+  geom_point(mapping = aes(x = fuel_h, y =engine, color=type)) +
+  facet_wrap(~ type, nrow = 2)
+
+```
+
+
+
+```{r}
+
+qplot(manufacturer, data=vehicles, geom="bar", fill=manufacturer)
+
+```
+
+
+
+### Analysis cylinders of the vehicle
+
+
+
+```{r}
+qplot(cylinders, data=vehicles, geom="bar", fill=factor(cylinders))
+
+```
+
+
+
+```{r}
+qplot(fuel_h, data=vehicles, geom="histogram", bins=30)
+```
+
+
+
+
+### Analysis on Fuel in the City
+
+
+```{r}
+qplot(fuel_c, data=vehicles, geom="histogram", bins=30)
+```
+
+
+
+```{r}
+ggplot(data = vehicles) + 
+  geom_point(mapping = aes(x = engine, y = fuel_h), color='red')
+
+ggplot(data = vehicles) + 
+  geom_point(mapping = aes(x = engine, y = fuel_h, color=type)) +
+  facet_wrap(~ type, nrow = 2)
+
+```
+
+
+
